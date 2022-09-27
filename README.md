@@ -1,0 +1,5 @@
+- 👋 Oi, eu sou a Lua :D
+- Eu gosto de fazer joguinho no Roblox.
+- Faço vídeozinho no youtube explicando como aplicar os códigozinhos que posto de roblox.
+- Não tenho formação nenhuma na área. Na realidade sou professora de espanhol.
+- Meu códigozinhos são mais focados para o pessoal brasileiro, por isso das variáveis e funções vão estar escritas em pt_Br.
