@@ -1,5 +1,10 @@
-- 👋 Oi, eu sou a Lua :D
-- Eu gosto de fazer joguinho no Roblox.
-- Faço vídeozinho no youtube explicando como aplicar os códigozinhos que posto de roblox.
+### 👋 Oioi, LuaCode aqui.
+
+- Gosto de fazer joguinho no Roblox.
+- Faço vídeozinho no youtube explicando como aplicar os códigozinhos que posto de Roblox.
 - Não tenho formação nenhuma na área. Na realidade, sou professora de espanhol.
-- Meu códigozinhos são mais focados para o pessoal brasileiro, por isso das variáveis e funções vão estar escritas em pt_Br.
+- Meu códigozinhos são mais focados para o pessoal brasileiro, por isso o nome das variáveis, funções e cometários vão estar escritos em pt_Br.
+
+<div>
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=OCodigoLuaEBrasilero&show_icons=true&theme=tokyonight"/> 
+</div>
