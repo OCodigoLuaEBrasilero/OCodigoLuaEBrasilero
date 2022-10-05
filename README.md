@@ -7,7 +7,3 @@
 
 <a href="https://www.youtube.com/channel/UC0fKLq2JajSRD-l1LFjF1Vg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target ="_blank"></a>
 
-<div>
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=OCodigoLuaEBrasilero&show_icons=true&theme=tokyonight"/> 
-</div>
-
